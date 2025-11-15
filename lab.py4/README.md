@@ -72,7 +72,8 @@ lalu upload semua file ke github melalui terminal dengan cara!
 buat terlebih dahulu folder project di komputer, lalu buka terminal di dalam folder tersebut. Inisialisasi Git dengan perintah git init, kemudian tambahkan file yang ingin diunggah menggunakan git add .. Setelah itu, simpan perubahan dengan git commit -m "pesan commit".
 
 Selanjutnya hubungkan folder lokal dengan repository GitHub menggunakan perintah:
-git remote add origin https://github.com/username/nama-repo.git
+git remote add origin https://github.com/adriansyahmukti-svg/lab.py4.git
 git push -u origin main
 
 Setelah proses selesai, file akan muncul dan tersimpan di repository GitHub kamu.
+
