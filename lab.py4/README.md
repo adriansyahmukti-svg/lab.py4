@@ -19,8 +19,7 @@ Program ini dibuat untuk melakukan input dan pengolahan data nilai mahasiswa sec
 
 Setiap data mahasiswa disimpan dalam sebuah list yang berisi dictionary, sehingga setiap mahasiswa memiliki struktur data yang lengkap dan mudah dikelola. Program juga menyediakan pilihan untuk menambahkan data lebih dari satu mahasiswa. Ketika pengguna memilih untuk berhenti, seluruh data yang telah diinput akan ditampilkan dalam bentuk tabel yang rapi, berisi nomor urut, nama, NIM, nilai Tugas, UTS, UAS, dan nilai akhir yang ditampilkan dengan dua angka di belakang koma.
 
-![Hasil Latihan 1](https://github.com/adriansyahmukti-svg/labpy4/blob/main/lab.py4/hasil2.png
-3.)
+![Hasil Latihan 1](https://github.com/adriansyahmukti-svg/labpy4/blob/main/lab.py4/hasil2.png)
 
 flowchat dari program di atas
 
@@ -75,4 +74,5 @@ buat terlebih dahulu folder project di komputer, lalu buka terminal di dalam fol
 Selanjutnya hubungkan folder lokal dengan repository GitHub menggunakan perintah:
 git remote add origin https://github.com/username/nama-repo.git
 git push -u origin main
+
 Setelah proses selesai, file akan muncul dan tersimpan di repository GitHub kamu.
